@@ -2,7 +2,7 @@ import java.util.*;
 class XOR
 {	
 	void findXor(int arr[],int start,int end)
-		{
+		{						// work on indentation
 int xor=arr[start];
 for(int arr_index=start+1;arr_index<=end;arr_index++)
 {
