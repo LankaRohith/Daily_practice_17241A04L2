@@ -1,6 +1,6 @@
 # Training
 - Code Complete
-1. Done
+1. Done-pushed for best case
 2. 
 3. 
 4. 
