@@ -10,11 +10,11 @@ def convertBin(n):
         n/=2
     s="1"+s
     return s 
-n=int(input())
+n=int(input())   #2
 for i in range(1,n+1):
     s=convertBin(i)
     onesCount(s)
-print(lst)  
+print(lst)    #[0,1,1]
 expected_output=[0,1,1]
 if lst==expected_output:
     print("NO ERRORS")
