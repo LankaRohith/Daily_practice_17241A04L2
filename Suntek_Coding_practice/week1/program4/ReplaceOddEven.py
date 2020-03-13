@@ -1,6 +1,6 @@
 def replaceOddEven(n):
     if n==1:
-        return 0
+        return 0  #when you reach bottom of stack trace no need to increase count
     elif n%2==0:
         return 1+replaceOddEven(n/2)
     else:
